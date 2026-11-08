@@ -2,7 +2,7 @@
 
 **Topic:** travel agency website about Kazakhstan (continuation of the midterm project, same topic and group).
 
-**Live site:** 
+**Live site:** https://soqyrbala.github.io/site-endterm/
 
 ## Group members
 
